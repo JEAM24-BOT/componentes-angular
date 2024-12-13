@@ -1,0 +1,19 @@
+.usuario-info {
+  background-color: #f4f4f9;
+  border: 1px solid #ddd;
+  padding: 20px;
+  width: 300px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+.usuario-info h2 {
+  color: #2a9d8f;
+  font-size: 22px;
+}
+
+.usuario-info p {
+  font-size: 16px;
+  color: #555;
+}
+  
